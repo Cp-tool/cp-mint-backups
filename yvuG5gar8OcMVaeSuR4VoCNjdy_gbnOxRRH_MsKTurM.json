@@ -1,0 +1,36 @@
+{
+  "asset": "LINKARW",
+  "pgpsig": "testTWO",
+  "description": "<div style=\"width:100%;aspect-ratio:16/9;\"><iframe src=\"https://xdu2xnvgvxpmeue7zkgyyhimlc3pdidhbxd4uecdyv34is67wofq.ar.io/uOmrtqat3sJQn8qNjB0MWLbxoGcNx8oQQ8V3xEvfs4s?\" style=\"width:100%;height:100%;border:none;\" allowfullscreen></iframe></div>",
+  "image": "https://ewnsam5x43tpba5xzshlup6ygwo6j6noe7txneken4odjm5lcqfa.ar.io/JZsgM7fm5vCDt8yOuj_YNZ3k-a4n53aRRG8cNLOrFAo?.png",
+  "image_large": "https://2bc6zdixsugnqrrx3p3enz2d7z3ti4a3a3vcnenohycjfzximi4a.ar.io/0EXsjReVDNhGN9v2RudD_nc0cBsG6iaRrj4EkuboYjg?.png",
+  "references": {
+    "thumb": {
+      "arweave_txid": "JZsgM7fm5vCDt8yOuj_YNZ3k-a4n53aRRG8cNLOrFAo",
+      "arweave_ario": "https://ar-io.net/JZsgM7fm5vCDt8yOuj_YNZ3k-a4n53aRRG8cNLOrFAo",
+      "arweave_net": "https://arweave.net/JZsgM7fm5vCDt8yOuj_YNZ3k-a4n53aRRG8cNLOrFAo",
+      "arweave_sandbox": "https://ewnsam5x43tpba5xzshlup6ygwo6j6noe7txneken4odjm5lcqfa.ar.io/JZsgM7fm5vCDt8yOuj_YNZ3k-a4n53aRRG8cNLOrFAo?.png",
+      "ipfs_cid": "QmV21P64nxCM8Mp6HwmQcx3USPf8gDKDnmfx4dQF8KFqkZ",
+      "ipfs_url": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmV21P64nxCM8Mp6HwmQcx3USPf8gDKDnmfx4dQF8KFqkZ",
+      "github_raw": "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/JZsgM7fm5vCDt8yOuj_YNZ3k-a4n53aRRG8cNLOrFAo.png"
+    },
+    "image": {
+      "arweave_txid": "0EXsjReVDNhGN9v2RudD_nc0cBsG6iaRrj4EkuboYjg",
+      "arweave_ario": "https://ar-io.net/0EXsjReVDNhGN9v2RudD_nc0cBsG6iaRrj4EkuboYjg",
+      "arweave_net": "https://arweave.net/0EXsjReVDNhGN9v2RudD_nc0cBsG6iaRrj4EkuboYjg",
+      "arweave_sandbox": "https://2bc6zdixsugnqrrx3p3enz2d7z3ti4a3a3vcnenohycjfzximi4a.ar.io/0EXsjReVDNhGN9v2RudD_nc0cBsG6iaRrj4EkuboYjg?.png",
+      "ipfs_cid": "QmQBWVXzrLgPKnKo9N81GjGfiWeh7LCKf4gr35iaNqjNAK",
+      "ipfs_url": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmQBWVXzrLgPKnKo9N81GjGfiWeh7LCKf4gr35iaNqjNAK",
+      "github_raw": "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/0EXsjReVDNhGN9v2RudD_nc0cBsG6iaRrj4EkuboYjg.png"
+    },
+    "embed_html": {
+      "arweave_txid": "uOmrtqat3sJQn8qNjB0MWLbxoGcNx8oQQ8V3xEvfs4s",
+      "arweave_ario": "https://ar-io.net/uOmrtqat3sJQn8qNjB0MWLbxoGcNx8oQQ8V3xEvfs4s",
+      "arweave_net": "https://arweave.net/uOmrtqat3sJQn8qNjB0MWLbxoGcNx8oQQ8V3xEvfs4s",
+      "arweave_sandbox": "https://xdu2xnvgvxpmeue7zkgyyhimlc3pdidhbxd4uecdyv34is67wofq.ar.io/uOmrtqat3sJQn8qNjB0MWLbxoGcNx8oQQ8V3xEvfs4s?.html",
+      "ipfs_cid": "QmVGG8y3uKtB7iLM2vMUc6YFrqpGzsBSXfKXAdtEppjnjK",
+      "ipfs_url": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmVGG8y3uKtB7iLM2vMUc6YFrqpGzsBSXfKXAdtEppjnjK",
+      "github_raw": "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/uOmrtqat3sJQn8qNjB0MWLbxoGcNx8oQQ8V3xEvfs4s.html"
+    }
+  }
+}
