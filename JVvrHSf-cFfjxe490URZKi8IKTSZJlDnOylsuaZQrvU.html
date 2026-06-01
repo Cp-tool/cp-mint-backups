@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GREYGALAXY</title>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#000;width:100vw;height:100vh;overflow:hidden;display:flex;align-items:center;justify-content:center}
+a{display:block;max-width:90vw;max-height:90vh;cursor:pointer}
+img{display:block;max-width:90vw;max-height:90vh;object-fit:contain;cursor:pointer}
+.overlay{
+  position:fixed;top:0;left:0;width:100%;height:100%;
+  display:flex;align-items:center;justify-content:center;
+  pointer-events:none;z-index:10;
+}
+.overlay span{
+  font-family:'Press Start 2P',monospace;
+  font-size:clamp(1.2rem,5vw,3.5rem);
+  color:#39ff14;
+  text-align:center;
+  text-shadow:
+    0 0 10px #39ff14,
+    0 0 30px #39ff14,
+    0 0 60px #00ff66,
+    0 0 100px #00ff66;
+  animation:flash 3s infinite;
+  line-height:1.6;
+}
+@keyframes flash{
+  0%{opacity:1;text-shadow:0 0 10px #39ff14,0 0 30px #39ff14,0 0 60px #00ff66,0 0 100px #00ff66}
+  50%{opacity:1;text-shadow:0 0 10px #39ff14,0 0 30px #39ff14,0 0 60px #00ff66,0 0 100px #00ff66}
+  60%{opacity:0}
+  100%{opacity:0}
+}
+</style>
+</head>
+<body>
+<a id="card" href="https://cp-tool.github.io/cp-mint-backups/" target="_blank" rel="noopener">
+<img id="art" alt="GREYGALAXY">
+</a>
+<div class="overlay"><span>CLICK CARD<br>TO PLAY</span></div>
+
+<script>
+/* ---------- IMAGE FALLBACK CHAIN with timeout (reliable source first) ---------- */
+(function(){
+  var sources = [
+    "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/N3b50yD4aZQyVrkmJg1zTcseuBhbJJrnKXoDAQx0ypQ.gif",
+    "https://g53ptuza7buzimswxetcmdltjxfr5oaylmsjvzzjpibqcdduzkka.ar.io/N3b50yD4aZQyVrkmJg1zTcseuBhbJJrnKXoDAQx0ypQ?.gif",
+    "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmVHquu5AkdgDvJw5MbZyZbQviTZ8dymPB5Mzd33YYDXok"
+  ];
+  var img = document.getElementById("art");
+  var i = -1;
+  var timer = null;
+  var PER_SOURCE_TIMEOUT = 5000; // ms before a slow/hanging source is abandoned
+
+  function tryNext(){
+    clearTimeout(timer);
+    i++;
+    if(i >= sources.length){ return; } // exhausted; leave whatever loaded (or blank)
+    img.src = sources[i];
+    timer = setTimeout(tryNext, PER_SOURCE_TIMEOUT); // hang = failover
+  }
+
+  img.onload  = function(){ clearTimeout(timer); }; // success: stop the watchdog
+  img.onerror = function(){ tryNext(); };           // hard error: next source
+
+  tryNext(); // start
+})();
+</script>
+</body>
+</html>
