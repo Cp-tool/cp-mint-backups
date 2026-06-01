@@ -1,0 +1,24 @@
+{
+  "asset": "IWANTTOKEK",
+  "pgpsig": "OK_SA",
+  "category": "Art",
+  "subcategory": "Pepe",
+  "image": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmQQvMWZXkLeRfJf8oYhBrUcuCuY1eoMX1zQ5ndyQV8tTw?filename=byeeVUFKMarP9tqIDKQpPchLl4vcafYgHCuCJjkPfcM.png",
+  "image_large": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmbsNr3in2gBPCS2CUK1uJejaDzJSMKiFG6BXpzm64VUfZ?filename=_yyP6_LA4x_InDRDymWPWj7PbpMF9PBCRH1vbzZ-wsM.png",
+  "twitter": "https://x.com/SeanAlbrite406",
+  "website": "www.GreyPepeProject.com",
+  "references": {
+    "thumb": {
+      "arweave_txid": "byeeVUFKMarP9tqIDKQpPchLl4vcafYgHCuCJjkPfcM",
+      "arweave_ario": "https://ar-io.net/byeeVUFKMarP9tqIDKQpPchLl4vcafYgHCuCJjkPfcM",
+      "arweave_net": "https://arweave.net/byeeVUFKMarP9tqIDKQpPchLl4vcafYgHCuCJjkPfcM",
+      "arweave_sandbox": "https://n4tz4vkbjiy2vt7w3keazjbjhxeexf4l3ru7mia4fobcmoippxbq.ar.io/byeeVUFKMarP9tqIDKQpPchLl4vcafYgHCuCJjkPfcM?.png"
+    },
+    "image": {
+      "arweave_txid": "_yyP6_LA4x_InDRDymWPWj7PbpMF9PBCRH1vbzZ-wsM",
+      "arweave_ario": "https://ar-io.net/_yyP6_LA4x_InDRDymWPWj7PbpMF9PBCRH1vbzZ-wsM",
+      "arweave_net": "https://arweave.net/_yyP6_LA4x_InDRDymWPWj7PbpMF9PBCRH1vbzZ-wsM",
+      "arweave_sandbox": "https://74wi727sydrr7se4grb4uzmpli7m63utax2paqsepvxw6nt6ylbq.ar.io/_yyP6_LA4x_InDRDymWPWj7PbpMF9PBCRH1vbzZ-wsM?.png"
+    }
+  }
+}
