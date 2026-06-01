@@ -1,0 +1,38 @@
+{
+  "asset": "LINKARW",
+  "pgpsig": "what?",
+  "description": "<div style=\"width:100%;aspect-ratio:16/9;\"><iframe src=\"https://arweave.net/QyFbjy1O3Q72dZYGG-9Ip54RxAI--8tmBO0JgXsCUNQ\" style=\"width:100%;height:100%;border:none;\" allowfullscreen></iframe></div>",
+  "category": "Brand or Product",
+  "subcategory": "Pet",
+  "image": "https://ik5cew7kaohvimi5klueetby44457t6j4zenmhbmlfqubwti2epa.ar.io/QroiW-oDj1QxHVLoQkw45znfz8nmSNYcLFlhQNpo0R4?.png",
+  "image_large": "https://6nf54l2bbtdolcsc2nqatg6ecrcj5cd4upph366ulv7ogu3oev4a.ar.io/80veL0EMxuWKQtNgCZvEFESeiHyj3n371F1-41NuJXg?.png",
+  "references": {
+    "thumb": {
+      "arweave_txid": "QroiW-oDj1QxHVLoQkw45znfz8nmSNYcLFlhQNpo0R4",
+      "arweave_ario": "https://ar-io.net/QroiW-oDj1QxHVLoQkw45znfz8nmSNYcLFlhQNpo0R4",
+      "arweave_net": "https://arweave.net/QroiW-oDj1QxHVLoQkw45znfz8nmSNYcLFlhQNpo0R4",
+      "arweave_sandbox": "https://ik5cew7kaohvimi5klueetby44457t6j4zenmhbmlfqubwti2epa.ar.io/QroiW-oDj1QxHVLoQkw45znfz8nmSNYcLFlhQNpo0R4?.png",
+      "ipfs_cid": "QmUN3zxvMqmQNDxcnYTZdgM9uN79vtx9CBPa1VYsBCMX2P",
+      "ipfs_url": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmUN3zxvMqmQNDxcnYTZdgM9uN79vtx9CBPa1VYsBCMX2P",
+      "github_raw": "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/QroiW-oDj1QxHVLoQkw45znfz8nmSNYcLFlhQNpo0R4.png"
+    },
+    "image": {
+      "arweave_txid": "80veL0EMxuWKQtNgCZvEFESeiHyj3n371F1-41NuJXg",
+      "arweave_ario": "https://ar-io.net/80veL0EMxuWKQtNgCZvEFESeiHyj3n371F1-41NuJXg",
+      "arweave_net": "https://arweave.net/80veL0EMxuWKQtNgCZvEFESeiHyj3n371F1-41NuJXg",
+      "arweave_sandbox": "https://6nf54l2bbtdolcsc2nqatg6ecrcj5cd4upph366ulv7ogu3oev4a.ar.io/80veL0EMxuWKQtNgCZvEFESeiHyj3n371F1-41NuJXg?.png",
+      "ipfs_cid": "QmS4eZmb34iqWi539topVuHLgPvZvWAGhdDSr48YMFf5H9",
+      "ipfs_url": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmS4eZmb34iqWi539topVuHLgPvZvWAGhdDSr48YMFf5H9",
+      "github_raw": "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/80veL0EMxuWKQtNgCZvEFESeiHyj3n371F1-41NuJXg.png"
+    },
+    "embed_html": {
+      "arweave_txid": "1XoIfjeIlNnHdZCvRSEqTd0uhKtbGbVh6K5bfWuaD2s",
+      "arweave_ario": "https://ar-io.net/1XoIfjeIlNnHdZCvRSEqTd0uhKtbGbVh6K5bfWuaD2s",
+      "arweave_net": "https://arweave.net/1XoIfjeIlNnHdZCvRSEqTd0uhKtbGbVh6K5bfWuaD2s",
+      "arweave_sandbox": "https://2v5aq7rxrckntr3vscxukijkjxos5bfllmm3kypivznx2242b5vq.ar.io/1XoIfjeIlNnHdZCvRSEqTd0uhKtbGbVh6K5bfWuaD2s?.html",
+      "ipfs_cid": "QmVGG8y3uKtB7iLM2vMUc6YFrqpGzsBSXfKXAdtEppjnjK",
+      "ipfs_url": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmVGG8y3uKtB7iLM2vMUc6YFrqpGzsBSXfKXAdtEppjnjK",
+      "github_raw": "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/1XoIfjeIlNnHdZCvRSEqTd0uhKtbGbVh6K5bfWuaD2s.html"
+    }
+  }
+}
