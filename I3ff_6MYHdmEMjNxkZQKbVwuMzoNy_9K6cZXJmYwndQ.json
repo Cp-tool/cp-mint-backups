@@ -1,0 +1,30 @@
+{
+  "asset": "CONEHEADS",
+  "pgpsig": "HNFT Pepe",
+  "category": "Art",
+  "subcategory": "Pepe",
+  "image": "https://5u4bukcna7hp2zlzvrk2kylfuxwye4h4n4wdra4rjqtfbdp4p5ya.ar.io/7TgaKE0Hzv1leaxVpWFlpe2CcPxvLDiDkUwmUI38f3A?.png",
+  "image_large": "https://bjv357f3zhwfyx6jfhtyv3km2e5bkinpyjwanqwy6qg6gt4sxwzq.ar.io/Cmu-_LvJ7FxfySnniu1M0ToVIa_CbAbC2PQN40-SvbM?.png",
+  "twitter": "https://x.com/HnftPepe",
+  "website": "www.GreyPepeProject.com",
+  "references": {
+    "thumb": {
+      "arweave_txid": "7TgaKE0Hzv1leaxVpWFlpe2CcPxvLDiDkUwmUI38f3A",
+      "arweave_ario": "https://ar-io.net/7TgaKE0Hzv1leaxVpWFlpe2CcPxvLDiDkUwmUI38f3A",
+      "arweave_net": "https://arweave.net/7TgaKE0Hzv1leaxVpWFlpe2CcPxvLDiDkUwmUI38f3A",
+      "arweave_sandbox": "https://5u4bukcna7hp2zlzvrk2kylfuxwye4h4n4wdra4rjqtfbdp4p5ya.ar.io/7TgaKE0Hzv1leaxVpWFlpe2CcPxvLDiDkUwmUI38f3A?.png",
+      "ipfs_cid": "QmYD856qXNPgSUgKsFmPf9fXdw5VTFqFzkgbQnxRAp83kD",
+      "ipfs_url": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmYD856qXNPgSUgKsFmPf9fXdw5VTFqFzkgbQnxRAp83kD",
+      "github_raw": "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/7TgaKE0Hzv1leaxVpWFlpe2CcPxvLDiDkUwmUI38f3A.png"
+    },
+    "image": {
+      "arweave_txid": "Cmu-_LvJ7FxfySnniu1M0ToVIa_CbAbC2PQN40-SvbM",
+      "arweave_ario": "https://ar-io.net/Cmu-_LvJ7FxfySnniu1M0ToVIa_CbAbC2PQN40-SvbM",
+      "arweave_net": "https://arweave.net/Cmu-_LvJ7FxfySnniu1M0ToVIa_CbAbC2PQN40-SvbM",
+      "arweave_sandbox": "https://bjv357f3zhwfyx6jfhtyv3km2e5bkinpyjwanqwy6qg6gt4sxwzq.ar.io/Cmu-_LvJ7FxfySnniu1M0ToVIa_CbAbC2PQN40-SvbM?.png",
+      "ipfs_cid": "QmNctHtKUetMfFZnLqnknqM5v5Zh9iG9CKjYnCwDaP8LHZ",
+      "ipfs_url": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmNctHtKUetMfFZnLqnknqM5v5Zh9iG9CKjYnCwDaP8LHZ",
+      "github_raw": "https://raw.githubusercontent.com/Cp-tool/cp-mint-backups/main/Cmu-_LvJ7FxfySnniu1M0ToVIa_CbAbC2PQN40-SvbM.png"
+    }
+  }
+}
