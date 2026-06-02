@@ -1,0 +1,24 @@
+{
+  "asset": "CONEHEADS",
+  "pgpsig": "HNFT Pepe",
+  "category": "Meme Art",
+  "subcategory": "Grey Pepe",
+  "image": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmY7MK5WCTWBeJJ7KUGSG91oQKZFP2vK7uJXbBnauU11Q4?filename=FrmsehAK92r0fitk0GHLqhxiHOu9dPJVIJ33rzcUM48.png",
+  "image_large": "https://amethyst-key-constrictor-728.mypinata.cloud/ipfs/QmP2SrxVVVY2L45LkMbtCQHF5KsrJFEP1sH4BsPg2Q2Pq6?filename=MCPID_UvNKMUZsXvvZJY5txjDls0bGykJt8e4GHShac.png",
+  "twitter": "https://x.com/HnftPepe",
+  "website": "www.GreyPepeProject.com",
+  "references": {
+    "thumb": {
+      "arweave_txid": "FrmsehAK92r0fitk0GHLqhxiHOu9dPJVIJ33rzcUM48",
+      "arweave_ario": "https://ar-io.net/FrmsehAK92r0fitk0GHLqhxiHOu9dPJVIJ33rzcUM48",
+      "arweave_net": "https://arweave.net/FrmsehAK92r0fitk0GHLqhxiHOu9dPJVIJ33rzcUM48",
+      "arweave_sandbox": "https://c242y6qqbl3wv5d6fnsnayolviogehhlxv2pevjatx326nyugohq.ar.io/FrmsehAK92r0fitk0GHLqhxiHOu9dPJVIJ33rzcUM48?.png"
+    },
+    "image": {
+      "arweave_txid": "MCPID_UvNKMUZsXvvZJY5txjDls0bGykJt8e4GHShac",
+      "arweave_ario": "https://ar-io.net/MCPID_UvNKMUZsXvvZJY5txjDls0bGykJt8e4GHShac",
+      "arweave_net": "https://arweave.net/MCPID_UvNKMUZsXvvZJY5txjDls0bGykJt8e4GHShac",
+      "arweave_sandbox": "https://gar4qd7vf42kgfdgyxx33esy43oggds3grwgzjbg34poayosqwtq.ar.io/MCPID_UvNKMUZsXvvZJY5txjDls0bGykJt8e4GHShac?.png"
+    }
+  }
+}
