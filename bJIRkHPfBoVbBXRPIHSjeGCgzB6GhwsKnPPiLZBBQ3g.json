@@ -1,0 +1,27 @@
+{
+  "asset": "GREYGALAXY",
+  "pgpsig": "HNFT Pepe",
+  "image_title": "GREY GALAXY (On-chain game) - https://mempool.space/tx/a90da65957333b1f87a82b345eed0cc61e1cdb009614d5fb54da4f90c00e0e0e",
+  "description": "<div style=\"width:100%;aspect-ratio:16/9;\"><iframe src=\"https://zqvqghprpwdx6tihyl3gxrhwvq6qpwcv3e3lll66x3r3yllmqkma.ar.io/zCsDHfF9h39NB8L2a8T2rD0H2FXZNrWv3r7jvC1sgpg?\" style=\"width:100%;height:100%;border:none;\" allowfullscreen></iframe></div>",
+  "category": "Memetic Game",
+  "subcategory": "Grey Pepe",
+  "image": "https://zdm5ll4blb4mynnarrn3jlqmymdzcefb2zu5fc3kyxckggqhvmha.ar.io/yNnVr4FYeMw1oIxbtK4MwweREKHWadKLasXEoxoHqw4?.png",
+  "image_large": "https://guepiypnuhavqd7phwk2j6xs7w6xbyzyc5pcgmmhcon7xqwxijnq.ar.io/NQj0Ye2hwVgP7z2VpPry_b1w4zgXXiMxhxOb-8LXQls?.gif",
+  "twitter": "https://x.com/HnftPepe",
+  "website": "www.GreyPepeProject.com",
+  "website_alternate1": "https://ordinals.com/inscription/126558942",
+  "references": {
+    "thumb": {
+      "arweave_txid": "yNnVr4FYeMw1oIxbtK4MwweREKHWadKLasXEoxoHqw4",
+      "arweave_ario": "https://ar-io.net/yNnVr4FYeMw1oIxbtK4MwweREKHWadKLasXEoxoHqw4",
+      "arweave_net": "https://arweave.net/yNnVr4FYeMw1oIxbtK4MwweREKHWadKLasXEoxoHqw4",
+      "arweave_sandbox": "https://zdm5ll4blb4mynnarrn3jlqmymdzcefb2zu5fc3kyxckggqhvmha.ar.io/yNnVr4FYeMw1oIxbtK4MwweREKHWadKLasXEoxoHqw4?.png"
+    },
+    "image": {
+      "arweave_txid": "NQj0Ye2hwVgP7z2VpPry_b1w4zgXXiMxhxOb-8LXQls",
+      "arweave_ario": "https://ar-io.net/NQj0Ye2hwVgP7z2VpPry_b1w4zgXXiMxhxOb-8LXQls",
+      "arweave_net": "https://arweave.net/NQj0Ye2hwVgP7z2VpPry_b1w4zgXXiMxhxOb-8LXQls",
+      "arweave_sandbox": "https://guepiypnuhavqd7phwk2j6xs7w6xbyzyc5pcgmmhcon7xqwxijnq.ar.io/NQj0Ye2hwVgP7z2VpPry_b1w4zgXXiMxhxOb-8LXQls?.gif"
+    }
+  }
+}
