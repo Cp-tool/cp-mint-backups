@@ -1,0 +1,33 @@
+{
+  "asset": "GREYWAVE",
+  "pgpsig": "HNFT Pepe",
+  "image_title": "Inscription 126641935",
+  "description": "<div style=\"width:100%;aspect-ratio:16/9;\"><iframe src=\"https://dnyy2nucsjmhc5lx7mcwqtfzct5kk53cvmmh3f2u6tpdbkbmlq2a.ar.io/G3GNNoKSWHF1d_sFaEy5FPqld2KrGH2XVPTeMKgsXDQ?.html\" style=\"width:100%;height:100%;border:none;\" allowfullscreen></iframe></div>",
+  "category": "Memetic Game",
+  "subcategory": "Grey Pepe",
+  "image": "https://3urdpyhf4xrwqpprippb45lztjpgexrjnrs2u762p3tyivztkdba.ar.io/3SI34OXl42g98UPeHnV5ml5iXilsZap_2n7nhFczUMI?.png",
+  "image_large": "https://fphx7ousajbuxnkbhcpij7xameuiatd2bxm4doivi7l572445hwa.ar.io/K89_upICQ0u1QTiehP7gYSiATHoN2cG5FUfX3-uc6ew?.gif",
+  "twitter": "https://x.com/HnftPepe",
+  "website": "https://ordinals.com/inscription/38e2a75ea34d8e5fe53f69bd34804562b0388111dd8542236b6008c335d8ce57i0",
+  "website_alternate1": "https://greypepeproject.com/",
+  "references": {
+    "thumb": {
+      "arweave_txid": "3SI34OXl42g98UPeHnV5ml5iXilsZap_2n7nhFczUMI",
+      "arweave_ario": "https://ar-io.net/3SI34OXl42g98UPeHnV5ml5iXilsZap_2n7nhFczUMI",
+      "arweave_net": "https://arweave.net/3SI34OXl42g98UPeHnV5ml5iXilsZap_2n7nhFczUMI",
+      "arweave_sandbox": "https://3urdpyhf4xrwqpprippb45lztjpgexrjnrs2u762p3tyivztkdba.ar.io/3SI34OXl42g98UPeHnV5ml5iXilsZap_2n7nhFczUMI?.png"
+    },
+    "image": {
+      "arweave_txid": "K89_upICQ0u1QTiehP7gYSiATHoN2cG5FUfX3-uc6ew",
+      "arweave_ario": "https://ar-io.net/K89_upICQ0u1QTiehP7gYSiATHoN2cG5FUfX3-uc6ew",
+      "arweave_net": "https://arweave.net/K89_upICQ0u1QTiehP7gYSiATHoN2cG5FUfX3-uc6ew",
+      "arweave_sandbox": "https://fphx7ousajbuxnkbhcpij7xameuiatd2bxm4doivi7l572445hwa.ar.io/K89_upICQ0u1QTiehP7gYSiATHoN2cG5FUfX3-uc6ew?.gif"
+    },
+    "embed_html": {
+      "arweave_txid": "G3GNNoKSWHF1d_sFaEy5FPqld2KrGH2XVPTeMKgsXDQ",
+      "arweave_ario": "https://ar-io.net/G3GNNoKSWHF1d_sFaEy5FPqld2KrGH2XVPTeMKgsXDQ",
+      "arweave_net": "https://arweave.net/G3GNNoKSWHF1d_sFaEy5FPqld2KrGH2XVPTeMKgsXDQ",
+      "arweave_sandbox": "https://dnyy2nucsjmhc5lx7mcwqtfzct5kk53cvmmh3f2u6tpdbkbmlq2a.ar.io/G3GNNoKSWHF1d_sFaEy5FPqld2KrGH2XVPTeMKgsXDQ?.html"
+    }
+  }
+}
