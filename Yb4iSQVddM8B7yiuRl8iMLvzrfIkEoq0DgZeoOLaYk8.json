@@ -1,0 +1,33 @@
+{
+  "asset": "KEKBOMBS",
+  "pgpsig": "HNFT Pepe",
+  "image_title": "Inscription 126729128",
+  "description": "<div style=\"width:100%;aspect-ratio:16/9;\"><iframe src=\"https://dh4en4xpaaw5bfogy4ctlx76yslolb7ae3yihmlf2i65bblyxjtq.ar.io/GfhG8u8ALdCVxscFNd_-xJblh-Am8IOxZdI90IV4umc?.html\" style=\"width:100%;height:100%;border:none;\" allowfullscreen></iframe></div>",
+  "category": "Memetic Game",
+  "subcategory": "FAKE RARE",
+  "image": "https://3khlf6qoxcuwkgnxhlpgurewpdz6izq4wiombjxevavjpfogoxqa.ar.io/2o6y-g64qWUZtzreakSWePPkZhyyHMCm5Kgql5XGdeA?.png",
+  "image_large": "https://zbtno4hvvh7aqszdutzxdg5yr7bm24wrmxgerfo4eb24ntkv4ahq.ar.io/yGbXcPWp_ghLI6TzcZu4j8LNctFlzEiV3CB1xs1V4A8?.gif",
+  "twitter": "https://x.com/HnftPepe",
+  "website": "https://fakeraredirectory.com/",
+  "website_alternate1": "https://mempool.space/tx/3864f0ac63ae491617c734a18290b49d5cb2d41abd06a63598795a242b853974",
+  "references": {
+    "thumb": {
+      "arweave_txid": "2o6y-g64qWUZtzreakSWePPkZhyyHMCm5Kgql5XGdeA",
+      "arweave_ario": "https://ar-io.net/2o6y-g64qWUZtzreakSWePPkZhyyHMCm5Kgql5XGdeA",
+      "arweave_net": "https://arweave.net/2o6y-g64qWUZtzreakSWePPkZhyyHMCm5Kgql5XGdeA",
+      "arweave_sandbox": "https://3khlf6qoxcuwkgnxhlpgurewpdz6izq4wiombjxevavjpfogoxqa.ar.io/2o6y-g64qWUZtzreakSWePPkZhyyHMCm5Kgql5XGdeA?.png"
+    },
+    "image": {
+      "arweave_txid": "yGbXcPWp_ghLI6TzcZu4j8LNctFlzEiV3CB1xs1V4A8",
+      "arweave_ario": "https://ar-io.net/yGbXcPWp_ghLI6TzcZu4j8LNctFlzEiV3CB1xs1V4A8",
+      "arweave_net": "https://arweave.net/yGbXcPWp_ghLI6TzcZu4j8LNctFlzEiV3CB1xs1V4A8",
+      "arweave_sandbox": "https://zbtno4hvvh7aqszdutzxdg5yr7bm24wrmxgerfo4eb24ntkv4ahq.ar.io/yGbXcPWp_ghLI6TzcZu4j8LNctFlzEiV3CB1xs1V4A8?.gif"
+    },
+    "embed_html": {
+      "arweave_txid": "GfhG8u8ALdCVxscFNd_-xJblh-Am8IOxZdI90IV4umc",
+      "arweave_ario": "https://ar-io.net/GfhG8u8ALdCVxscFNd_-xJblh-Am8IOxZdI90IV4umc",
+      "arweave_net": "https://arweave.net/GfhG8u8ALdCVxscFNd_-xJblh-Am8IOxZdI90IV4umc",
+      "arweave_sandbox": "https://dh4en4xpaaw5bfogy4ctlx76yslolb7ae3yihmlf2i65bblyxjtq.ar.io/GfhG8u8ALdCVxscFNd_-xJblh-Am8IOxZdI90IV4umc?.html"
+    }
+  }
+}
